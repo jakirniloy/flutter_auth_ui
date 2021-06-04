@@ -4,7 +4,7 @@
 
 ## [Watch it on YouTube](https://youtu.be/ExKYjqgswJg)
 Design credit 
-## [Abu Anwar] (https://github.com/abuanwar072) 
+## [Abu Anwar](https://github.com/abuanwar072) 
 **Packages we are using:**
 
 - flutter_svg: [link](https://pub.dev/packages/flutter_svg)
