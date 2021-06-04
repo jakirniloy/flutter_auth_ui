@@ -13,4 +13,5 @@ We design 3 screens first one is a welcome screen like then user open your app i
 
 ### Auth UI
 
-![App UI](/UI.png)
+![image](https://user-images.githubusercontent.com/48614476/120855360-2fa95d80-c5a0-11eb-8c78-7c7c20008d22.png)
+
